@@ -1,0 +1,11 @@
+/* src/tailwind.css */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Additional custom styles can be added here */
+
+body {
+  background-color: #000300;
+}

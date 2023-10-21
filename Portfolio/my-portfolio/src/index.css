@@ -1,0 +1,10 @@
+/* src/tailwind.css */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  background-color: #f1b4bb;
+  color: #fdf0f0;
+}
